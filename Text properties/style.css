@@ -1,0 +1,42 @@
+/* p {
+    text-align:right,left,center;       This is text properties
+} */
+
+/* h1 {
+    text-align: center;
+} */
+
+/* body {
+    text-align: center;
+} */
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+/* a {
+    font-weight: bolder;
+    text-decoration: none;
+} */
+
+/* .one {
+    font-weight: normal;
+}
+
+.two {
+    font-weight: bold;
+}
+
+.three {
+    font-weight: bolder;
+}
+
+.four {
+    font-weight: lighter;
+} */
+
+p {
+    line-height: 30px;
+    text-transform: none;
+}

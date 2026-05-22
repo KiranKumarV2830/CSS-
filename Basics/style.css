@@ -1,0 +1,40 @@
+/* h1 {
+    color:#ff0000;                      This is element selector
+}
+
+h2 {
+    color: darkslategrey;
+}
+
+p {
+    color:blue;
+}
+
+button {
+    background-color:crimson;
+    color:black;
+}
+
+body {
+    background-color: rgb(255, 0, 255);
+} */
+
+/* *{
+    color: darkorange;         Universal selector
+}
+ */
+
+/* #headingOne {
+    color: maroon;
+    background-color: aqua;
+}
+                                 This is id selector
+#headingTwo {
+    color: #0f0;
+    background-color: chocolate;
+} */
+
+/* .myClass {
+    color: yellow;                     This is class selector
+    background-color: darkcyan;
+} */
