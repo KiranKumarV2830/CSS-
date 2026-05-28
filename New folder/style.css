@@ -1,5 +1,19 @@
 div {
-    height: 50px;
-    background-color: red;
+    height: 100px;
+    background-color:aqua;
     width: 100px;
+    text-align: center;
+    border: 2px dotted black;
+    /* border-radius: 100px; */
+    padding: 25px;
+    margin: 25px;
 }
+/* 
+h1 {
+    background-color: aqua;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: red;
+    text-align: center;
+    text-decoration: underline;
+} */
